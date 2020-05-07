@@ -1,4 +1,4 @@
-# Creating Custom Boot Images for Compute Engine GCP
+# Creating Custom Boot Images for Compute Engine 
 This is the set of scripts for Creating custom base Images for Compute Engine with Jenkins or Cloud Build and Packer.  The tutorial explains how to create a Jenkins job and Packer scripts to build a custom boot image from an ISO and Kickstart file.
 
 # Included Files
